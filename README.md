@@ -2,9 +2,6 @@
 
 Fixes sound and Bluetooth on Apple T2 Macs (iMac / MacBook) running Ubuntu, lab machines, no sudo required.
 
-**Author:** Khalid Bouychou
-**Website:** [khbouych.tech](https://khbouych.tech)
-
 ## Problems it fixes
 
 ### 1. Sound dead
